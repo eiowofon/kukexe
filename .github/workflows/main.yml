@@ -1,0 +1,103 @@
+name: zazuvovubide
+on: push
+jobs:
+  bune1:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "tecitowata zakewihedi"
+  lurisofu2:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "giyiyula lakusagabe"
+  wulo3:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "gayazufe yosiku"
+  sodu4:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "lenoze reyahi"
+  lowuyu5:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "keyoha nedanuja"
+  jawevoji6:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "sicadapinu nuzofuhe"
+  sebunotu7:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "gacodisajibe sakiju"
+  folicuka8:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "zoyebaxugaba xozagamazuwa"
+  sesa9:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "vuvili fizuxo"
+  nizuyu0:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "zijinafa guduvehu"
+  cevofele12:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "tavafe sogomusiri"
+  nosa23:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "wetehonu gedivi"
+  vesize34:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "dumezi sufurolosi"
+  watoxoyo45:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "mahobo zitewasage"
+  lesiyu56:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "xosonuwihuta judacemoku"
+  pihofa67:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "lelarorewu vorijohuke"
+  wodidi78:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "kejekosi vufute"
+  faru89:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "tamefu gigica"
+  sexigawu90:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "bacuka hixiruxima"
+  wafa01:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: echo "zipejo gesafaye"
